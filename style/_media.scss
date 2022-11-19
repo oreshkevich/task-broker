@@ -1,0 +1,125 @@
+@media (max-width: 1068px) {
+  .platforms {
+    justify-content: center;
+  }
+  .broker__wrap {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 588px) {
+  .container {
+    max-width: 570px;
+    padding: 0 16px;
+  }
+  .welcome {
+    background-size: 558px auto;
+    background-position: 0% -14%;
+  }
+
+  .welcome__wrapper {
+    padding-top: 402px;
+    padding-bottom: 326px;
+  }
+
+  .welcome__title {
+    font-size: 49px;
+    line-height: 124%;
+  }
+
+  .welcome__text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+    color: #29374e;
+    padding-bottom: 15px;
+  }
+  .button {
+    width: 343px;
+  }
+  .card__text {
+    max-width: 136px;
+    font-size: 14px;
+  }
+  .card__item {
+    flex-direction: column-reverse;
+  }
+  .card__icon {
+    margin-top: -10px;
+    padding-bottom: 20px;
+  }
+  .advertisement {
+    margin-top: -295px;
+  }
+  .card__item {
+    padding: 12px 9px 9px 12px;
+  }
+  .product__title {
+    font-size: 24px;
+    line-height: 130%;
+  }
+  .product {
+    padding-top: 65px;
+    padding-bottom: 47px;
+  }
+  .product__title {
+    padding-bottom: 10px;
+  }
+  .platforms__title {
+    font-size: 16px;
+  }
+  .platforms__text {
+    font-size: 13px;
+  }
+  .platforms__picture {
+    margin-left: 5px;
+  }
+  .platforms__img {
+    max-width: 142px;
+  }
+  .platforms__wrap {
+    margin-top: 17px;
+    padding: 25px 20px 0px 16px;
+  }
+  .broker__wrap {
+    justify-content: center;
+    flex-direction: column;
+  }
+  .broker__item {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .broker__title {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 290px;
+    font-size: 38px;
+    font-size: 24px;
+  }
+  .broker__text {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 311px;
+    padding-top: 7px;
+    padding-bottom: 11px;
+  }
+  .ticket__item {
+    padding: 3px 11px 16px 18px;
+    margin-bottom: 23px;
+    background: #ffffff;
+    border-radius: 30px;
+  }
+  .ticket__text {
+    max-width: 129px;
+  }
+  .ticket {
+    margin-top: 37px;
+  }
+}
+
+@media (max-width: 400px) {
+  .welcome {
+    background-size: 558px auto;
+    background-position: calc(185% + 318.5px) -14%;
+  }
+}
